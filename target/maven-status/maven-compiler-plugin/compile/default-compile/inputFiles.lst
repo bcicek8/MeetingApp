@@ -1,0 +1,13 @@
+/home/burak/workspace-ee/practice01/src/main/java/meetingapp/service/IEmployeeService.java
+/home/burak/workspace-ee/practice01/src/main/java/meetingapp/service/DepartmentService.java
+/home/burak/workspace-ee/practice01/src/main/java/meetingapp/entity/Employee.java
+/home/burak/workspace-ee/practice01/src/main/java/meetingapp/dao/EmployeeDAO.java
+/home/burak/workspace-ee/practice01/src/main/java/meetingapp/controller/EmployeeController.java
+/home/burak/workspace-ee/practice01/src/main/java/meetingapp/dao/DepartmentDAO.java
+/home/burak/workspace-ee/practice01/src/main/java/meetingapp/entity/Department.java
+/home/burak/workspace-ee/practice01/src/main/java/meetingapp/dao/IEmployeeDAO.java
+/home/burak/workspace-ee/practice01/src/main/java/meetingapp/MyApplication.java
+/home/burak/workspace-ee/practice01/src/main/java/meetingapp/service/EmployeeService.java
+/home/burak/workspace-ee/practice01/src/main/java/meetingapp/service/IDepartmentService.java
+/home/burak/workspace-ee/practice01/src/main/java/meetingapp/dao/IDepartmentDAO.java
+/home/burak/workspace-ee/practice01/src/main/java/meetingapp/controller/DepartmentController.java
